@@ -1,5 +1,4 @@
 # Sistema-de-Inventario
-# Inventio Lite v4
 Sistema de Inventario y Ventas de proposito general desarrollado con PHP y MySQL.
 
 ## Modulos
